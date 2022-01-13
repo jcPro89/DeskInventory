@@ -9,3 +9,8 @@ CRUD application for keeping inventory control
 *Others:*
 Code for substracting last added product to inventory
 Code for substracting a product: enter substract-code and then input product code for substracting it from inventory
+
+
+Version history
+
+v0.1 - Add new product to database
