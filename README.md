@@ -1,4 +1,4 @@
-# DeskInventory
+# jcDeskInventory
 CRUD application for keeping inventory control
 
 1- ADD new product: user inputs product code, name and description
@@ -11,6 +11,13 @@ Code for substracting last added product to inventory
 Code for substracting a product: enter substract-code and then input product code for substracting it from inventory
 
 
-Version history
+Database
+
+Categories: CategoryId, CategorgyName
+Users: UserId, UserFullName, UserName, UserPassword
+Events: EventId, UserId FK, EventType, EventDescription, EventDateTime
+Products: ProductId PK, CategoryId FK, ProductCode, ProductName, ProductDescription, ProductCurrentQuantity
+
+_Version history_
 
 v0.1 - Add new product to database
