@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BG4yyTwW5HhfFnZz4dNUGXBRJH6OnGQXKtNAl5vx1PHeGz80/UnU7U/wOFkCjZvwRljY3sogLXvplhrc0qqpyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcumi\\source\\repos\\WinFormsApp1\\jcDeskInventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcumi\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.22\\microsoft.windows.sdk.net.ref.10.0.17763.22.nupkg.sha512"
+  ],
+  "logs": []
+}

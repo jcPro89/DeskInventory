@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bada4294-9a84-4f9c-895f-b46a7c32ea08": {
+      "ProjectGuid": "bada4294-9a84-4f9c-895f-b46a7c32ea08",
+      "DisplayName": "jcDeskInventory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
